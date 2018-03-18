@@ -19,7 +19,7 @@
 
 6. verification done
 
-7. Go to namecheap, manage ssl hosts
+7. Go to namecheap cpanel, manage ssl hosts
 
 8. Upload/update certificate
 
